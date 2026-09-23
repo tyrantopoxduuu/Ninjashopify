@@ -155,8 +155,8 @@ MASS_SESSIONS = {}
 
 API_ID = int(os.getenv("API_ID", "32114457"))
 API_HASH = os.getenv("API_HASH", "8aef880355c3ca8676f623d6a2b55071")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8635237317:AAEXCUPVbaHvDkeSlIMit3Wk_zzhWnYpcLg")
-ADMIN_ID = int(os.getenv("ADMIN_ID", "1296435544"))
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8711660509:AAF01HOGIKGYLKp_oASJFk32Egd16n-_L80")
+ADMIN_ID = int(os.getenv("ADMIN_ID", "7935621079"))
 KEY_ADMINS = {ADMIN_ID, 8456004769, 7716186369, 8409853085}
 # ============================================================
 # GLOBAL VARIABLES
